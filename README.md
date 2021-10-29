@@ -27,7 +27,7 @@
 ##  😼  How to reach me
 <br>  
 <a href="https://t.me/renett_t" target="_blank"> <img align="left" alt="Telegram" width="32px" height="32px" src="https://user-images.githubusercontent.com/68668504/138497730-b26bca28-3bee-4a5a-9136-544085db17fe.png"/></a>
-<a href="https://www.youtube.com/watch?v=AdfIfFGCqgo" target="_blank"> <img align="left" alt="Fake Linkedin" width="32px" height="32px" src="https://user-images.githubusercontent.com/68668504/138497705-05898a8f-df50-4140-8a66-5145073ae846.png"/></a>
+<a href="https://thequietplaceproject.xyz/thequietplace" target="_blank"> <img align="left" alt="Fake Linkedin" width="32px" height="32px" src="https://user-images.githubusercontent.com/68668504/138497705-05898a8f-df50-4140-8a66-5145073ae846.png"/></a>
 <a href="https://instagram.com/renett_t" target="_blank"> <img align="left" alt="Instagram" width="32px" height="32px" src="https://user-images.githubusercontent.com/68668504/138495203-2449d4b3-93e5-4ade-981d-21748925326c.png"/></a>
 <a href="https://twitter.com/renett_t" target="_blank"> <img align="left" alt="Twitter" width="32px" height="32px" src="https://user-images.githubusercontent.com/68668504/138495065-27f4584f-ebf4-4247-bbb7-daa4433dbebf.png"/></a>
 <a href="mailto:rtapkina@gmail.com" target="_blank"> <img align="left" alt="gmail" width="32px" height="32px" src="https://user-images.githubusercontent.com/68668504/138495097-1b0d432d-4977-404d-a2f3-5b1b1b397d01.png"/></a>
