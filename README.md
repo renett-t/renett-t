@@ -7,7 +7,7 @@
   - Passionate 🎶 & ☕ & 🏞️ & 🚶 lover
   - Currently learning Java & Android development
   - Oooops <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">more to know 'bout me</a>
-  - Another important <a href="https://www.youtube.com/watch?v=X-uJtV8ScYk" target="_blank">reference</a>
+  
 <br>
 
 ##  👩‍🎓  Education
